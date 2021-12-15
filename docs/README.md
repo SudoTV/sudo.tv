@@ -1,3 +1,3 @@
-# SudoTV.com
+# sudo.tv
 
-SudoTV.com
+sudo.tv
