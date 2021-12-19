@@ -1,6 +1,6 @@
 ---
 title: Work In Progress
-layout: home
+layout: default
 ---
 
 # Work In Progress

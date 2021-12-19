@@ -1,6 +1,6 @@
 ---
 title: 准备中
-layout: home
+layout: default
 ---
 
 # 准备中
