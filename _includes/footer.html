@@ -1,6 +1,22 @@
 <footer class="site-footer h-card">
     <data class="u-url" href="{{ " /" | relative_url }}"></data>
     <div class="wrapper">
+        <div class="license-footer">
+            <div class="badge-footer">
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+                    <img alt="Creative Commons License" style="border-width:0"
+                        src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" />
+                </a>
+            </div>
+            <div>
+                <span>
+                    &nbsp;Licensed under a&nbsp;
+                </span>
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+                    CC-BY-NC_ND 4.0 License
+                </a>.
+            </div>
+        </div>
         <div class="footer-col-wrapper">
             <div class="footer-col open-source-footer">
                 {% if site.github.private != true and site.github.license %}
@@ -9,7 +25,7 @@
                 </div>
                 {% endif %}
             </div>
-            <div style="flex: 1"></div>
+            <div class="center-footer"></div>
             <div class="footer-col language-footer">
                 <div class="language-footer-icon">
                     <i class="fa fa-globe" aria-hidden="true"></i>

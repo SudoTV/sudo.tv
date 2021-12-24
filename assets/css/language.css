@@ -9,9 +9,26 @@
     flex: auto;
 }
 
+.license-footer {
+    margin-bottom: 8px;
+    color: #828282;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.badge-footer {
+    margin-bottom: 1px;
+}
+
 .open-source-footer {
     padding: 0px !important;
     padding-left: 16px !important;
+}
+
+.center-footer {
+    flex: 1;
 }
 
 .language-footer {
