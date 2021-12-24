@@ -14,4 +14,6 @@ const getLanguage = () => {
 const setLanguage = (language) => {
 
     localStorage.setItem('sudo-tv-language', language);
+
+    console.log(window.location.pathname);
 };
