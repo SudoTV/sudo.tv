@@ -15,5 +15,10 @@ const setLanguage = (language) => {
 
     localStorage.setItem('sudo-tv-language', language);
 
-    console.log(window.location.pathname);
+    const path = window.location.pathname;
+
+    if (path.startsWith('/zh')
+        || path.startsWith('/en')) {
+        window.location.href = path.substring(3);
+    }
 };
