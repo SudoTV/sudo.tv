@@ -10,3 +10,8 @@ const getLanguage = () => {
 
     return language;
 };
+
+const setLanguage = (language) => {
+
+    localStorage.setItem('sudo-tv-language', language);
+};
