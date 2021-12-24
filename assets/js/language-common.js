@@ -1,3 +1,8 @@
+const availableLanguages = [
+    'zh-CN',
+    'en-US',
+];
+
 const getLanguage = () => {
 
     const localStorageLanguage = localStorage.getItem('sudo-tv-language');
@@ -17,8 +22,9 @@ const setLanguage = (language) => {
 
     const path = window.location.pathname;
 
-    if (path.startsWith('/zh')
-        || path.startsWith('/en')) {
-        window.location.href = path.substring(3);
+    if (availableLanguages.some((each) => {
+        return path.startsWith(`/${each}`);
+    })) {
+        window.location.href = `/${language}${path.substring(6)}`;
     }
 };
