@@ -10,16 +10,12 @@
 }
 
 .license-footer {
-    margin-bottom: 8px;
+    margin-top: 4px;
     color: #828282;
-    font-size: 15px;
+    font-size: 14px;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.badge-footer {
-    margin-bottom: 1px;
 }
 
 .open-source-footer {
@@ -51,4 +47,9 @@
     border: none;
     outline: 0px;
     background-color: rgb(240, 240, 240);
+}
+
+.site-footer {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
 }
