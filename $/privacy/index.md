@@ -38,11 +38,6 @@ discontinue use of our Services immediately.
       - [How do we use and share your personal information?](#how-do-we-use-and-share-your-personal-information)
       - [Will your information be shared with anyone else?](#will-your-information-be-shared-with-anyone-else)
       - [Your rights with respect to your personal data](#your-rights-with-respect-to-your-personal-data)
-        - [Right to request deletion of the data - Request to delete](#right-to-request-deletion-of-the-data---request-to-delete)
-        - [Right to be informed - Request to know](#right-to-be-informed---request-to-know)
-        - [Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights](#right-to-non-discrimination-for-the-exercise-of-a-consumers-privacy-rights)
-        - [Verification process](#verification-process)
-        - [Other privacy rights](#other-privacy-rights)
   - [DO WE MAKE UPDATES TO THIS NOTICE?](#do-we-make-updates-to-this-notice)
   - [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
   - [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
@@ -170,11 +165,11 @@ SudoTV has not disclosed or sold any personal information to third parties for a
 
 #### Your rights with respect to your personal data
 
-##### Right to request deletion of the data - Request to delete
+*Right to request deletion of the data - Request to delete*
 
 You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation or any processing that may be required to protect against illegal activities.
 
-##### Right to be informed - Request to know
+*Right to be informed - Request to know*
 
 Depending on the circumstances, you have a right to know:
 
@@ -188,17 +183,17 @@ Depending on the circumstances, you have a right to know:
 
 In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request. 
 
-##### Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+*Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights*
 
 We will not discriminate against you if you exercise your privacy rights.
 
-##### Verification process
+*Verification process*
 
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g. phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
 
 We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. If, however, we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity, and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
 
-##### Other privacy rights
+*Other privacy rights*
 
 - you may object to the processing of your personal data.
 - you may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the data.
