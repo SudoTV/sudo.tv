@@ -1,6 +1,10 @@
 ---
-title: Work In Progress
+title: Privacy
 layout: default
 ---
 
 # Privacy
+
+## Work In Progress
+
+Coming Soon
