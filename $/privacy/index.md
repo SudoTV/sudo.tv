@@ -39,3 +39,30 @@ The personal information we collect may include the following:
 ## WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 **In Short:** We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
+
+We may process or share your data that we hold based on the following legal basis:
+
+- Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
+- Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
+- Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+- Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+- Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+
+More specifically, we may need to process your data or share your personal information in the following situations:
+
+- Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+## HOW LONG DO WE KEEP YOUR INFORMATION?
+
+**In Short:** We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or
+permitted by law (such as tax, accounting or other legal requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+## HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+**In Short:** We aim to protect your personal information through a system of organizational and technical security measures.
+
+We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Website is at your own risk. You should only access the Website within a secure environment.
