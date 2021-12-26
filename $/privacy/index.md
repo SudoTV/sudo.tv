@@ -24,17 +24,28 @@ discontinue use of our Services immediately.
 
 ## TABLE OF CONTENTS
 
-1. [WHAT INFORMATION DO WE COLLECT?](https://sudo.tv/$/privacy/#what-information-do-we-collect)
-2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
-3. HOW LONG DO WE KEEP YOUR INFORMATION?
-4. HOW DO WE KEEP YOUR INFORMATION SAFE?
-5. WHAT ARE YOUR PRIVACY RIGHTS?
-6. CONTROLS FOR DO-NOT-TRACK FEATURES
-7. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-8. DO WE MAKE UPDATES TO THIS NOTICE?
-9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-10. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT
-FROM YOU?
+- [PRIVACY NOTICE](#privacy-notice)
+  - [TABLE OF CONTENTS](#table-of-contents)
+  - [WHAT INFORMATION DO WE COLLECT?](#what-information-do-we-collect)
+  - [WILL YOUR INFORMATION BE SHARED WITH ANYONE?](#will-your-information-be-shared-with-anyone)
+  - [HOW LONG DO WE KEEP YOUR INFORMATION?](#how-long-do-we-keep-your-information)
+  - [HOW DO WE KEEP YOUR INFORMATION SAFE?](#how-do-we-keep-your-information-safe)
+  - [WHAT ARE YOUR PRIVACY RIGHTS?](#what-are-your-privacy-rights)
+  - [CONTROLS FOR DO-NOT-TRACK FEATURES](#controls-for-do-not-track-features)
+  - [DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#do-california-residents-have-specific-privacy-rights)
+    - [CCPA Privacy Notice](#ccpa-privacy-notice)
+      - [What categories of personal information do we collect?](#what-categories-of-personal-information-do-we-collect)
+      - [How do we use and share your personal information?](#how-do-we-use-and-share-your-personal-information)
+      - [Will your information be shared with anyone else?](#will-your-information-be-shared-with-anyone-else)
+      - [Your rights with respect to your personal data](#your-rights-with-respect-to-your-personal-data)
+        - [Right to request deletion of the data - Request to delete](#right-to-request-deletion-of-the-data---request-to-delete)
+        - [Right to be informed - Request to know](#right-to-be-informed---request-to-know)
+        - [Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights](#right-to-non-discrimination-for-the-exercise-of-a-consumers-privacy-rights)
+        - [Verification process](#verification-process)
+        - [Other privacy rights](#other-privacy-rights)
+  - [DO WE MAKE UPDATES TO THIS NOTICE?](#do-we-make-updates-to-this-notice)
+  - [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
+  - [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 ## WHAT INFORMATION DO WE COLLECT?
 
