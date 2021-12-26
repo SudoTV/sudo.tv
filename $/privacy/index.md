@@ -5,17 +5,17 @@ layout: default
 
 # PRIVACY NOTICE
 
-Last updated December 01, 2021
+**Last updated December 01, 2021**
 
-Thank you for choosing to be part of our community at SudoTV ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at info@sudo.tv. This privacy notice describes how we might use your information if you:
+Thank you for choosing to be part of our community at SudoTV (**"Company,"** **"we,"** **"us,"** or **"our"**). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at info@sudo.tv. This privacy notice describes how we might use your information if you:
 
 - Visit our website at sudo.tv 
 - Engage with us in other related ways ― including any sales, marketing, or events
 
 In this privacy notice, if we refer to:
 
-- "Website," we are referring to any website of ours that references or links to this policy
-- "Services," we are referring to our Website, and other related services, including any sales, marketing, or events
+- **"Website,"** we are referring to any website of ours that references or links to this policy
+- **"Services,"** we are referring to our Website, and other related services, including any sales, marketing, or events
 
 The purpose of this privacy notice is to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. If there are any terms in this privacy notice that you do not agree with, please
 discontinue use of our Services immediately.
@@ -96,13 +96,13 @@ We have implemented appropriate technical and organizational security measures d
 
 **In Short:** In some regions, such as the European Economic Area (EEA) and United Kingdom (UK), you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
 
-In some regions (like the EEA and UK), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details provided below. We will consider and act upon any request in accordance with applicable data protection laws.
+In some regions (like the EEA and UK), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](#how-can-you-contact-us-about-this-notice) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
 
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you are a resident in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+If you are a resident in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
 
-If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
+If you are a resident in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
 ## CONTROLS FOR DO-NOT-TRACK FEATURES
 
