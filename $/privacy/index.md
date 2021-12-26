@@ -20,7 +20,21 @@ In this privacy notice, if we refer to:
 The purpose of this privacy notice is to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. If there are any terms in this privacy notice that you do not agree with, please
 discontinue use of our Services immediately.
 
-Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.
+**Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.**
+
+## TABLE OF CONTENTS
+
+1. [WHAT INFORMATION DO WE COLLECT?](https://sudo.tv/$/privacy/#what-information-do-we-collect)
+2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+3. HOW LONG DO WE KEEP YOUR INFORMATION?
+4. HOW DO WE KEEP YOUR INFORMATION SAFE?
+5. WHAT ARE YOUR PRIVACY RIGHTS?
+6. CONTROLS FOR DO-NOT-TRACK FEATURES
+7. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+8. DO WE MAKE UPDATES TO THIS NOTICE?
+9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+10. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT
+FROM YOU?
 
 ## WHAT INFORMATION DO WE COLLECT?
 
