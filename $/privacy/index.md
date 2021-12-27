@@ -1,6 +1,7 @@
 ---
 title: Privacy
 layout: default
+localization: en-US
 ---
 
 # PRIVACY NOTICE

@@ -1,6 +1,7 @@
 ---
 title: About
 layout: default
+localization: en-US
 ---
 
 # About

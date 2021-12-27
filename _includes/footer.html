@@ -32,7 +32,11 @@
                 </li>
                 <li class="links-footer-li">
                     <a href="https://sudo.tv/$/privacy">
+                        {% if page.localization == "en-US" %}
                         Privacy
+                        {% elsif page.localization == "zh-CN" %}
+                        隐私
+                        {% endif %}
                     </a>
                 </li>
                 <li class="links-footer-li">

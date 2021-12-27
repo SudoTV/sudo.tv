@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: default
+localization: en-US
 ---
 
 # Contact
