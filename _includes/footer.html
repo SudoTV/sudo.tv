@@ -44,7 +44,7 @@
                     </a>
                 </li>
                 <li class="links-footer-li">
-                    <a href="https://sudo.tv/$/about">
+                    <a href="https://sudo.tv/about">
                         {% if page.localization == "en-US" %}
                         About
                         {% elsif page.localization == "zh-CN" %}
@@ -53,7 +53,16 @@
                     </a>
                 </li>
                 <li class="links-footer-li">
-                    <a href="https://sudo.tv/$/contact">
+                    <a href="https://sudo.tv/faq">
+                        {% if page.localization == "en-US" %}
+                        FAQ
+                        {% elsif page.localization == "zh-CN" %}
+                        常见问题
+                        {% endif %}
+                    </a>
+                </li>
+                <li class="links-footer-li">
+                    <a href="https://sudo.tv/contact">
                         {% if page.localization == "en-US" %}
                         Contact
                         {% elsif page.localization == "zh-CN" %}

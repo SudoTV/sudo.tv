@@ -1,9 +1,11 @@
 ---
-title: 准备中
+title: 关于
 layout: default
 localization: zh-CN
 ---
 
-# 准备中例子
+# 关于
+
+## 准备中
 
 嘿嘿
