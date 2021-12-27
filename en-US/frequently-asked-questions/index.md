@@ -1,10 +1,10 @@
 ---
-title: FAQ
+title: Frequently Asked Questions
 layout: default
 localization: en-US
 ---
 
-# FAQ
+# Frequently Asked Questions
 
 ## Work In Progress
 
