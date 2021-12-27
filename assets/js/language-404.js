@@ -6,8 +6,12 @@ const language = getLanguage();
     if (availableLanguages.some((each) => {
         return path.startsWith(`/${each}`);
     })) {
+
+        document.write(test);
         return;
     }
+
+    document.write(`Redirecting`);
 
     if (language === 'zh-CN') {
         window.location.href = `/zh-CN${window.location.pathname}`;
