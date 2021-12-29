@@ -1,6 +1,6 @@
 ---
 title: About
-layout: default
+layout: cross-site
 localization: en-US
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Contribute
-layout: default
+layout: cross-site
 localization: en-US
 ---
 

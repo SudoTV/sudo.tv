@@ -1,6 +1,6 @@
 ---
 title: 互动
-layout: default
+layout: cross-site
 localization: zh-CN
 ---
 

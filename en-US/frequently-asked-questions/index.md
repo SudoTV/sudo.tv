@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-layout: default
+layout: cross-site
 localization: en-US
 ---
 

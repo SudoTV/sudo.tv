@@ -1,6 +1,6 @@
 ---
 title: 常见问题
-layout: default
+layout: cross-site
 localization: zh-CN
 ---
 
