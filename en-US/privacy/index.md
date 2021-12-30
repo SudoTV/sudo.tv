@@ -1,6 +1,6 @@
 ---
 title: Privacy
-layout: cross-site
+layout: default
 localization: en-US
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Interact
-layout: cross-site
+layout: default
 localization: en-US
 ---
 

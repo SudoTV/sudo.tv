@@ -1,8 +1,10 @@
 ---
 title: About
-layout: cross-site
+layout: default
 localization: en-US
 ---
+
+{% include cross-site-banner.html %}
 
 # About
 

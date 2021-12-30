@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: cross-site
+layout: default
 localization: en-US
 ---
 

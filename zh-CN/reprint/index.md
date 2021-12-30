@@ -1,6 +1,6 @@
 ---
 title: 转载
-layout: cross-site
+layout: default
 localization: zh-CN
 ---
 

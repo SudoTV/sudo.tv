@@ -1,6 +1,6 @@
 ---
 title: 贡献
-layout: cross-site
+layout: default
 localization: zh-CN
 ---
 

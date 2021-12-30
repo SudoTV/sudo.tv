@@ -1,6 +1,6 @@
 ---
 title: 关于
-layout: cross-site
+layout: default
 localization: zh-CN
 ---
 

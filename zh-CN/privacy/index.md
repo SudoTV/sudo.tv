@@ -1,6 +1,6 @@
 ---
 title: 隐私权
-layout: cross-site
+layout: default
 localization: zh-CN
 ---
 

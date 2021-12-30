@@ -1,6 +1,6 @@
 ---
 title: Reprint
-layout: cross-site
+layout: default
 localization: en-US
 ---
 
