@@ -80,7 +80,7 @@
         window.location.href = tempUrl;
     });
 
-    crossSiteBanner.classList.remove('cross-site-banner-hidden');
+    crossSiteBanner.classList.remove('site-banner-hidden');
 
     switch (language) {
 
