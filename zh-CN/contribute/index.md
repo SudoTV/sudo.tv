@@ -4,6 +4,8 @@ layout: default
 localization: zh-CN
 ---
 
+{% include cross-site-banner.html %}
+
 # 贡献
 
 ## 准备中

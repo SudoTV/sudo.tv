@@ -4,6 +4,8 @@ layout: default
 localization: zh-CN
 ---
 
+{% include cross-site-banner.html %}
+
 # PRIVACY NOTICE
 
 **Last updated December 01, 2021**
