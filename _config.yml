@@ -25,6 +25,7 @@ exclude:
   - common/_data
   - common/_includes
   - "common/docs"
+  - "common/LICENSE"
   - ".vscode/"
   - .jekyll-cache/
   - docs/
