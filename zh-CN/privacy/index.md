@@ -2,11 +2,12 @@
 title: 隐私权
 layout: default
 localization: zh-CN
+language: en-US
 ---
 
 {% include cross-site-banner.html %}
 
-{% include not-translated.html partial="true" %}
+{% include not-translated.html %}
 
 # PRIVACY NOTICE
 
