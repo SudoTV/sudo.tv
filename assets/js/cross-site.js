@@ -2,6 +2,10 @@
 
     const crossSiteMap = {
         'zh-CN': {
+            'SudoTV': {
+                backLinkName: 'SudoTV 主站',
+                backLinkUrl: 'https://sudo.tv/',
+            },
             'SudoTV Docs': {
                 backLinkName: 'SudoTV 文档主页',
                 backLinkUrl: 'https://docs.sudo.tv/',
@@ -24,6 +28,10 @@
             },
         },
         'en-US': {
+            'SudoTV': {
+                backLinkName: 'SudoTV Index',
+                backLinkUrl: 'https://sudo.tv/',
+            },
             'SudoTV Docs': {
                 backLinkName: 'SudoTV Docs Index',
                 backLinkUrl: 'https://docs.sudo.tv/',
@@ -55,6 +63,10 @@
     const params = Object.fromEntries(urlSearchParams.entries());
 
     if (typeof params.origin !== 'string') {
+        return;
+    }
+
+    if (params.origin === siteCommon.applicationName) {
         return;
     }
 
