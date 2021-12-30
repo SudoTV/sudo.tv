@@ -1,9 +1,21 @@
-<div id="cross-site-banner" class="site-banner site-banner-hidden">
-    <div id="cross-site-banner-text" class="site-banner-text">
-        Loading
+<div class="site-banner">
+    <div class="site-banner-text">
+        {% if include.partial == "true" %}
+
+        {% if page.localization == "en-US" %}
+        This page is partially translated.
+        {% elsif page.localization == "zh-CN" %}
+        此页面没有完全翻译的您偏好语言的版本。
+        {% endif %}
+
+        {% else %}
+
+        {% if page.localization == "en-US" %}
+        This page is not translated.
+        {% elsif page.localization == "zh-CN" %}
+        此页面没有您偏好语言的版本。
+        {% endif %}
+
+        {% endif %}
     </div>
-    <button id="cross-site-banner-close" class="site-banner-close">
-        <i class="fa fa-times" aria-hidden="true"></i>
-    </button>
 </div>
-<script src="/assets/js/cross-site.js"></script>

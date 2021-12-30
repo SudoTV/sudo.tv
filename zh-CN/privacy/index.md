@@ -6,6 +6,8 @@ localization: zh-CN
 
 {% include cross-site-banner.html %}
 
+{% include not-translated.html partial="true" %}
+
 # PRIVACY NOTICE
 
 **Last updated December 01, 2021**
