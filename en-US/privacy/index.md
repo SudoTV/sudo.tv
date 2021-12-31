@@ -4,7 +4,7 @@ layout: default
 localization: en-US
 ---
 
-{% include cross-site-banner.html %}
+{% include banner/cross-site.html %}
 
 # PRIVACY NOTICE
 
