@@ -1,11 +1,15 @@
 ---
-title: 准备中
+title: SudoTV
 layout: default
 localization: zh-CN
 ---
 
 {% include banner/not-ready.html %}
 
-# 准备中
+# SudoTV
 
-嘿嘿
+{% include navigation/absolute-link.html
+    href="https://resource.sudo.tv"
+    title="SudoTV 资源"
+    description="浏览需要的资源和教程"
+%}
