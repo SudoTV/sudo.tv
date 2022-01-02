@@ -1,5 +1,5 @@
 ---
-title: Work In Progress
+title: Redirecting
 layout: home
 localization: en-US
 ---
