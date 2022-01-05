@@ -10,6 +10,4 @@ localization: zh-CN
 
 # 常见问题
 
-## 准备中
-
-嘿嘿
+> 我们始终在改进我们的内容。如果您在这里没有找到答案，请通过电子邮件 [info@sudo.tv](mailto://info@sudo.tv) 联系我们。您可以在 [联系](https://sudo.tv/contact) 找到更多联系我们的方式。
