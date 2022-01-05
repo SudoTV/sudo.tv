@@ -7,11 +7,20 @@ localization: zh-CN
 # SudoTV
 
 {% include navigation/absolute-link.html
+    href="https://docs.sudo.tv"
+    title="SudoTV 文档"
+    description="浏览 SudoTV 的包和库的文档及其 API 使用方式"
+%}
+{% include navigation/absolute-link.html
+    href="https://project.sudo.tv"
+    title="SudoTV 项目"
+    description="浏览 SudoTV 项目"
+%}
+{% include navigation/absolute-link.html
     href="https://resource.sudo.tv"
     title="SudoTV 资源"
     description="浏览需要的资源和教程"
 %}
-
 {% include navigation/absolute-link.html
     href="https://series.sudo.tv"
     title="SudoTV 剧集"
@@ -20,29 +29,33 @@ localization: zh-CN
 
 {% include navigation/link-grid-start.html %}
 
-{% include navigation/link-grid-absolute-item.html
-    href="https://sudo.tv/privacy"
+{% include navigation/link-grid-item.html
+    href="privacy"
     title="隐私权"
 %}
-{% include navigation/link-grid-absolute-item.html
-    href="https://sudo.tv/about"
+{% include navigation/link-grid-item.html
+    href="about"
     title="关于"
 %}
-{% include navigation/link-grid-absolute-item.html
-    href="https://sudo.tv/frequently-asked-questions"
+{% include navigation/link-grid-item.html
+    href="frequently-asked-questions"
     title="常见问题"
 %}
-{% include navigation/link-grid-absolute-item.html
-    href="https://sudo.tv/interact"
+{% include navigation/link-grid-item.html
+    href="interact"
     title="互动"
 %}
-{% include navigation/link-grid-absolute-item.html
-    href="https://sudo.tv/contribute"
+{% include navigation/link-grid-item.html
+    href="contribute"
     title="贡献"
 %}
-{% include navigation/link-grid-absolute-item.html
-    href="https://sudo.tv/reprint"
+{% include navigation/link-grid-item.html
+    href="reprint"
     title="转载"
+%}
+{% include navigation/link-grid-item.html
+    href="contact"
+    title="联系我们"
 %}
 
 {% include navigation/link-grid-end.html %}
