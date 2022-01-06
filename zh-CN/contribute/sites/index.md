@@ -1,6 +1,6 @@
 ---
 title: 网站贡献
-layout: default
+layout: base
 localization: zh-CN
 ---
 

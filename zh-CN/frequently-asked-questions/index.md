@@ -1,6 +1,6 @@
 ---
 title: 常见问题
-layout: default
+layout: base
 localization: zh-CN
 ---
 

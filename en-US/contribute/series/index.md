@@ -1,6 +1,6 @@
 ---
 title: Series Contribute
-layout: default
+layout: base
 localization: en-US
 ---
 

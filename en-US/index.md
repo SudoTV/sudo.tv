@@ -1,6 +1,6 @@
 ---
 title: SudoTV
-layout: default
+layout: base
 localization: en-US
 ---
 

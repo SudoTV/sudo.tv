@@ -1,6 +1,6 @@
 ---
 title: Sites Interact
-layout: default
+layout: base
 localization: en-US
 ---
 

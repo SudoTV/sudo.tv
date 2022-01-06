@@ -1,6 +1,6 @@
 ---
 title: 剧集贡献
-layout: default
+layout: base
 localization: zh-CN
 ---
 

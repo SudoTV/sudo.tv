@@ -1,6 +1,6 @@
 ---
 title: 联系
-layout: default
+layout: base
 localization: zh-CN
 ---
 

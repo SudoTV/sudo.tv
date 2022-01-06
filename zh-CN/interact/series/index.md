@@ -1,6 +1,6 @@
 ---
 title: 剧集互动
-layout: default
+layout: base
 localization: zh-CN
 ---
 

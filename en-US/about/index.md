@@ -1,6 +1,6 @@
 ---
 title: About
-layout: default
+layout: base
 localization: en-US
 ---
 
