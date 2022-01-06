@@ -8,22 +8,22 @@ localization: zh-CN
 
 {% include navigation/absolute-link.html
     href="https://docs.sudo.tv"
-    title="SudoTV 文档"
+    title="文档"
     description="浏览 SudoTV 的包和库的文档及其 API 使用方式"
 %}
 {% include navigation/absolute-link.html
     href="https://project.sudo.tv"
-    title="SudoTV 项目"
-    description="浏览 SudoTV 项目"
+    title="项目"
+    description="浏览 SudoTV 支持的项目"
 %}
 {% include navigation/absolute-link.html
     href="https://resource.sudo.tv"
-    title="SudoTV 资源"
+    title="资源"
     description="浏览需要的资源和教程"
 %}
 {% include navigation/absolute-link.html
     href="https://series.sudo.tv"
-    title="SudoTV 剧集"
+    title="剧集"
     description="浏览 SudoTV 剧集"
 %}
 

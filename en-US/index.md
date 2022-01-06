@@ -8,22 +8,22 @@ localization: en-US
 
 {% include navigation/absolute-link.html
     href="https://docs.sudo.tv"
-    title="SudoTV Docs"
+    title="Documents"
     description="Browse Documents and APIs of SudoTV owned packages and libraries"
 %}
 {% include navigation/absolute-link.html
     href="https://project.sudo.tv"
-    title="SudoTV Project"
+    title="Project"
     description="Browse SudoTV Projects"
 %}
 {% include navigation/absolute-link.html
     href="https://resource.sudo.tv"
-    title="SudoTV Resource"
+    title="Resource"
     description="Browse needed resources and trainings"
 %}
 {% include navigation/absolute-link.html
     href="https://series.sudo.tv"
-    title="SudoTV Series"
+    title="Series"
     description="Browse SudoTV Series"
 %}
 
