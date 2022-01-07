@@ -17,12 +17,12 @@ Your rights and restrictions of reprinting material of the SudoTV project may be
 %}
 {% include navigation/core-link.html
     href="series"
-    title="Series code and content"
+    title="Series Code and Content"
     description="Your right and restriction of reprinting series code and content material of the SudoTV project"
 %}
 {% include navigation/core-link.html
     href="site"
-    title="Sites and their source code"
+    title="Sites Content and Source Code"
     description="Your right and restriction of reprinting sites and their source code material of the SudoTV project"
 %}
 {% include navigation/core-link.html

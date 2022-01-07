@@ -1,12 +1,12 @@
 ---
-title: Reprint Series of SudoTV
+title: Reprint Series Code and Content of SudoTV
 layout: base
 localization: en-US
 ---
 
 {% include banner/cross-site.html %}
 
-# Reprint Series of SudoTV
+# Reprint Series Code and Content of SudoTV
 
 ## Scope
 

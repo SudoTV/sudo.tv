@@ -1,12 +1,12 @@
 ---
-title: 转载 SudoTV 的剧集
+title: 转载 SudoTV 的剧集代码和内容
 layout: base
 localization: zh-CN
 ---
 
 {% include banner/cross-site.html %}
 
-# 转载 SudoTV 的剧集
+# 转载 SudoTV 的剧集代码和内容
 
 ## 范围
 

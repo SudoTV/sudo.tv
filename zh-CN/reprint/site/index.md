@@ -1,5 +1,5 @@
 ---
-title: 转载 SudoTV 的网站
+title: 转载 SudoTV 的网站及其源代码
 layout: base
 localization: zh-CN
 ---
@@ -10,7 +10,7 @@ localization: zh-CN
   references=site.data.reprint.reference
 %}
 
-# 转载 SudoTV 的网站
+# 转载 SudoTV 的网站及其源代码
 
 ## 范围
 

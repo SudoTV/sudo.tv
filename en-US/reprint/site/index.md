@@ -1,5 +1,5 @@
 ---
-title: Reprint Sites of SudoTV
+title: Reprint Sites Content and Source Code of SudoTV
 layout: base
 localization: en-US
 ---
@@ -10,7 +10,7 @@ localization: en-US
   references=site.data.reprint.reference
 %}
 
-# Reprint Sites of SudoTV
+# Reprint Sites Content and Source Code of SudoTV
 
 ## Scope
 
