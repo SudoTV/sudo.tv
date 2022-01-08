@@ -11,6 +11,11 @@ localization: zh-CN
 您转载 SudoTV 计划的作品的权利和限制根据转载的作品不同而不同。请参阅以下章节以了解更多信息。
 
 {% include navigation/core-link.html
+    href="logo"
+    title="徽标"
+    description="您转载 SudoTV 计划徽标的权利和限制"
+%}
+{% include navigation/core-link.html
     href="project"
     title="项目"
     description="您转载 SudoTV 计划项目作品的权利和限制"

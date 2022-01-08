@@ -11,6 +11,11 @@ localization: en-US
 Your rights and restrictions of reprinting material of the SudoTV project may be different based on the material you want to reprint. Please read the following chapters to learn more.
 
 {% include navigation/core-link.html
+    href="logo"
+    title="Logos"
+    description="Your right and restriction of reprinting logos of the SudoTV project"
+%}
+{% include navigation/core-link.html
     href="project"
     title="Projects"
     description="Your right and restriction of reprinting project material of the SudoTV project"
