@@ -6,7 +6,7 @@ localization: zh-CN
 
 {% include banner/cross-site.html %}
 
-# 联系
+# {{ page.title }}
 
 SudoTV 计划乐于收到关于您关于网站内容，剧集内容和其他相关的问题和反馈，并且会尽可能的帮助您解决问题。根据您问题的不同，我们提供多种联系方式。
 

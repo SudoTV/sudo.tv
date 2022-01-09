@@ -6,7 +6,7 @@ localization: zh-CN
 
 {% include banner/cross-site.html %}
 
-# 关于
+# {{ page.title }}
 
 ## 关于本站
 

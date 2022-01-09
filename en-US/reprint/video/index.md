@@ -10,7 +10,7 @@ localization: en-US
   references=site.data.reprint.reference
 %}
 
-# Reprint Videos of SudoTV
+# {{ page.title }}
 
 ## Scope
 

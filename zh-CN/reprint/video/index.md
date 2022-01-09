@@ -10,7 +10,7 @@ localization: zh-CN
   references=site.data.reprint.reference
 %}
 
-# 转载 SudoTV 的视频
+# {{ page.title }}
 
 ## 范围
 

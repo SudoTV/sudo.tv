@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/cross-site.html %}
 
-# Interact
+# {{ page.title }}
 
 Hi, we're SudoTV. Our sites and series are built as open-sourced a project and welcome your questions and contributions. Please select one of the following options to get started.
 

@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/cross-site.html %}
 
-# Contact
+# {{ page.title }}
 
 The SudoTV project is happy to listen and help you with any topic related to our site content, video content, and other related topics. There are multiple ways to contact us based on your needs.
 

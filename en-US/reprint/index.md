@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/cross-site.html %}
 
-# Reprint
+# {{ page.title }}
 
 Your rights and restrictions of reprinting material of the SudoTV project may be different based on the material you want to reprint. Please read the following chapters to learn more.
 

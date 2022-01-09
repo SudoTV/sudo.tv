@@ -6,7 +6,7 @@ localization: zh-CN
 
 {% include banner/cross-site.html %}
 
-# 转载 SudoTV 的徽标
+# {{ page.title }}
 
 ## 范围
 

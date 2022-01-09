@@ -4,7 +4,7 @@ layout: base
 localization: en-US
 ---
 
-# SudoTV
+# {{ page.title }}
 
 {% include navigation/absolute-link.html
     href="https://docs.sudo.tv"

@@ -4,7 +4,7 @@ layout: base
 localization: zh-CN
 ---
 
-# SudoTV
+# {{ page.title }}
 
 {% include navigation/absolute-link.html
     href="https://docs.sudo.tv"

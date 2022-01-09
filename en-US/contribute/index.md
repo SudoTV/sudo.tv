@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/cross-site.html %}
 
-# Contribute
+# {{ page.title }}
 
 Thanks for your interest in contributing to the SudoTV project. SudoTV project is open-sourced, and we're always looking for new ways to improve our content. Please select one of the following options to get started.
 

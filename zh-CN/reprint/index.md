@@ -6,7 +6,7 @@ localization: zh-CN
 
 {% include banner/cross-site.html %}
 
-# 转载
+# {{ page.title }}
 
 您转载 SudoTV 计划的作品的权利和限制根据转载的作品不同而不同。请参阅以下章节以了解更多信息。
 

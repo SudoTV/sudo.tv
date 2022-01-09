@@ -10,7 +10,7 @@ localization: en-US
   references=site.data.reprint.reference
 %}
 
-# Reprint Sites Content and Source Code of SudoTV
+# {{ page.title }}
 
 ## Scope
 

@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/cross-site.html %}
 
-# About
+# {{ page.title }}
 
 ## About this site
 

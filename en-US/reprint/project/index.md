@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/cross-site.html %}
 
-# Reprint Projects of SudoTV
+# {{ page.title }}
 
 ## Scope
 
