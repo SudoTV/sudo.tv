@@ -6,9 +6,9 @@ localization: en-US
 
 {% include banner/cross-site.html %}
 
-{% include banner/not-ready.html %}
-
 # {{ page.title }}
+
+## Contribute Sites with GitHub web editor
 
 All sites created by the SudoTV project are open source. You may notice a footer message on each page of our site. Which shows like this:
 
