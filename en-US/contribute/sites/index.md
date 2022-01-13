@@ -4,8 +4,6 @@ layout: base
 localization: en-US
 ---
 
-{% include banner/cross-site.html %}
-
 # {{ page.title }}
 
 ## With GitHub web editor

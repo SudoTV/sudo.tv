@@ -4,8 +4,6 @@ layout: base
 localization: en-US
 ---
 
-{% include banner/cross-site.html %}
-
 # PRIVACY NOTICE
 
 **Last updated December 01, 2021**
