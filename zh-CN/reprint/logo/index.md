@@ -4,8 +4,6 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/cross-site.html %}
-
 # {{ page.title }}
 
 ## 范围

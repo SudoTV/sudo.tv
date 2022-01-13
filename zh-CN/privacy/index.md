@@ -5,8 +5,6 @@ localization: zh-CN
 language: en-US
 ---
 
-{% include banner/cross-site.html %}
-
 {% include banner/not-translated.html %}
 
 # PRIVACY NOTICE

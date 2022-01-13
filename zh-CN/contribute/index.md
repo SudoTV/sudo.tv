@@ -4,8 +4,6 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/cross-site.html %}
-
 # {{ page.title }}
 
 感谢您考虑为 SudoTV 计划添砖加瓦。SudoTV 计划是开源的。且我们始终在改进我们的内容。请从以下的选项中选择一个来了解更多。

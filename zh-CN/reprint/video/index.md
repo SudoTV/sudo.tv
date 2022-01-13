@@ -4,8 +4,6 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/cross-site.html %}
-
 {% include banner/chapter-reference.html 
   references=site.data.reprint.reference
 %}

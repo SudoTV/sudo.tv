@@ -4,8 +4,6 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/cross-site.html %}
-
 # {{ page.title }}
 
 嗨，我们是 SudoTV。我们的网站和剧集都是开源的，并且欢迎您的问题和贡献。请从以下的选项中选择一个开始。
