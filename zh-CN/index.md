@@ -7,21 +7,31 @@ localization: zh-CN
 # {{ page.title }}
 
 {% include navigation/absolute-link.html
+    external=true
+    href="https://bear.sudo.tv"
+    title="熊吉"
+    description="浏览 SudoTV 剧集的脚本"
+%}
+{% include navigation/absolute-link.html
+    external=true
     href="https://docs.sudo.tv"
     title="文档"
     description="浏览 SudoTV 的包和库的文档及其 API 使用方式"
 %}
 {% include navigation/absolute-link.html
+    external=true
     href="https://project.sudo.tv"
     title="项目"
     description="浏览 SudoTV 支持的项目"
 %}
 {% include navigation/absolute-link.html
+    external=true
     href="https://resource.sudo.tv"
     title="资源"
     description="浏览需要的资源和教程"
 %}
 {% include navigation/absolute-link.html
+    external=true
     href="https://series.sudo.tv"
     title="剧集"
     description="浏览 SudoTV 剧集"
