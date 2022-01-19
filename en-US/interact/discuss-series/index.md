@@ -1,5 +1,5 @@
 ---
-title: Sites Interact
+title: Discuss Series
 layout: base
 localization: en-US
 ---
