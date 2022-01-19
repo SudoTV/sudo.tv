@@ -1,5 +1,5 @@
 ---
-title: Series Interact
+title: Improve Series Transcripts
 layout: base
 localization: en-US
 ---

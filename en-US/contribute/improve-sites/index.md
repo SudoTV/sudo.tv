@@ -1,5 +1,5 @@
 ---
-title: Sites Contribute
+title: Improve SudoTV Websites
 layout: base
 localization: en-US
 ---

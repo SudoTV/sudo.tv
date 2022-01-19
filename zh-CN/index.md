@@ -36,6 +36,12 @@ localization: zh-CN
     title="剧集"
     description="浏览 SudoTV 剧集"
 %}
+{% include navigation/absolute-link.html
+    external=true
+    href="https://stamp.sudo.tv"
+    title="贴纸"
+    description="浏览和获得 SudoTV 贴纸"
+%}
 
 {% include navigation/link-grid-start.html %}
 

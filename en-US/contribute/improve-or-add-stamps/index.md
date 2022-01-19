@@ -1,5 +1,5 @@
 ---
-title: Series Contribute
+title: Improve or Add Stamps
 layout: base
 localization: en-US
 ---

@@ -8,19 +8,26 @@ localization: en-US
 
 Thanks for your interest in contributing to the SudoTV project. SudoTV project is open-sourced, and we're always looking for new ways to improve our content. Please select one of the following options to get started.
 
-{% include navigation/link-grid-start.html %}
+## Contribute on SudoTV Series
 
-{% include navigation/link-grid-item.html
-    href="series"
-    title="Series Contribute"
-    description="How to contribute to series"
-%}
-{% include navigation/link-grid-item.html
-    href="sites"
-    title="Sites Contribute"
-    description="How to contribute to sites"
+{% include navigation/core-link.html
+    href="improve-series-transcripts"
+    title="Improve Series Transcripts"
+    description="Make transcripts more clear, fix spelling, and improve grammar"
 %}
 
-{% include navigation/link-grid-end.html %}
+## Contribute on SudoTV Websites
+
+{% include navigation/core-link.html
+    href="improve-sites"
+    title="Improve SudoTV Websites"
+    description="Improve websites user experience, add content, and fix issues"
+%}
+
+{% include navigation/core-link.html
+    href="improve-or-add-stamps"
+    title="Improve or Add Stamps"
+    description="Improve exist stamps, add new stamps"
+%}
 
 > If you are looking for something else, please visit [Contact](https://sudo.tv/contact) for more ways to contact us.

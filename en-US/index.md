@@ -36,6 +36,12 @@ localization: en-US
     title="Series"
     description="Browse SudoTV Series"
 %}
+{% include navigation/absolute-link.html
+    external=true
+    href="https://stamp.sudo.tv"
+    title="Stamp"
+    description="Browse and earn SudoTV Stamps"
+%}
 
 {% include navigation/link-grid-start.html %}
 
