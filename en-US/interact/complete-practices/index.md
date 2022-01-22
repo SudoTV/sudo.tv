@@ -11,5 +11,5 @@ Practices of each series are available under [SudoTV Series](https://series.sudo
 Finish the practices share the result to interact with the SudoTV project. Also, there's a stamp to demonstrate that you are an active SudoTV series viewer.
 
 {% include stamp/earn.html
-    stamp0=site.data.stamp.ghost
+    stamp0=site.data.stamp.practice-participant
 %}

@@ -11,5 +11,5 @@ localization: zh-CN
 完成练习后，您可以分享结果与其他的 SudoTV 项目观众互动。同时，您还可以通过完成并分享任何一个练习来获得一个贴纸来向所有人展示您是一个活跃的 SudoTV 剧集观众。
 
 {% include stamp/earn.html
-    stamp0=site.data.stamp.ghost
+    stamp0=site.data.stamp.practice-participant
 %}
