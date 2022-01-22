@@ -15,3 +15,7 @@ localization: zh-CN
 点击链接来编辑当前显示的页面。
 
 你可能需要一个 GitHub 账户来编辑一个页面或创建一个新页面。查看 [有关 GitHub 的主题](https://resource.sudo.tv/topic/github) 资源来了解更多关于 GitHub 的信息。
+
+{% include stamp/earn.html
+    stamp0=site.data.stamp.series-contributor
+%}

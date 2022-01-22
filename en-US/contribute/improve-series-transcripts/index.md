@@ -15,3 +15,7 @@ Visit [SudoTV Series](https://series.sudo.tv) to see a list of all the series th
 Click on the link to edit the currently displayed page.
 
 You may need a GitHub account in order to edit a page or create a new page. View [GitHub Topics](https://resource.sudo.tv/topic/github) resource to learn more about GitHub.
+
+{% include stamp/earn.html
+    stamp0=site.data.stamp.series-contributor
+%}
