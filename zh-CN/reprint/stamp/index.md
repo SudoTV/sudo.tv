@@ -19,7 +19,7 @@ SudoTV 计划的贴纸包括但不限于徽标图案，设计模式，图像文�
 ## 您可以
 
 - 使用 SudoTV 的贴纸链接到 SudoTV 或 SudoTV 子网站。
-- 使用我们的贴纸来推广而且必须只推广您的 SudoTV Hi （SudoTV Hi 是一个观众（用户）的 SudoTV 简介页面，了解更多请参阅 [SudoTV 贴纸 Hi](https://stamp.sudo.tv/hi)）。
+- 使用我们的贴纸来推广而且必须只推广您的 SudoTV 画像（SudoTV 画像 是一个观众（用户）的 SudoTV 简介页面，了解更多请参阅 [SudoTV 贴纸 画像](https://stamp.sudo.tv/profile)）。
 - 使用我们的贴纸在博客文章或新闻文章中发布关于 SudoTV 或 SudoTV 子网站的相关消息。
 
 ## 您不可以

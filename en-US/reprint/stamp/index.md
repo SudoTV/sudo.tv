@@ -19,7 +19,7 @@ Stamps include but are not limited to icons, design patterns, image files, and o
 ## You are free to
 
 - Use the SudoTV Stamps to link to SudoTV or SudoTV Sub-website.
-- Use our stamps to advertise and only advertise your SudoTV Hi (A SudoTV Hi is a profile page for viewers (users) of SudoTV, learn more at [SudoTV Stamp Hi](https://stamp.sudo.tv/hi)).
+- Use our stamps to advertise and only advertise your SudoTV Profile (A SudoTV Profile is a profile page for viewers (users) of SudoTV, learn more at [SudoTV Stamp Profile](https://stamp.sudo.tv/profile)).
 - Use our stamps in a blog post or news article about SudoTV or SudoTV Sub-website.
 
 ## You are not free to
