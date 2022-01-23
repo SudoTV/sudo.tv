@@ -54,6 +54,10 @@ localization: en-US
     title="About"
 %}
 {% include navigation/link-grid-item.html
+    href="dogs"
+    title="Dogs"
+%}
+{% include navigation/link-grid-item.html
     href="frequently-asked-questions"
     title="FAQ"
 %}

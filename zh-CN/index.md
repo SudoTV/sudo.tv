@@ -54,6 +54,10 @@ localization: zh-CN
     title="关于"
 %}
 {% include navigation/link-grid-item.html
+    href="dogs"
+    title="狗狗"
+%}
+{% include navigation/link-grid-item.html
     href="frequently-asked-questions"
     title="常见问题"
 %}
