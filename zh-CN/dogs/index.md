@@ -6,7 +6,7 @@ localization: zh-CN
 
 # {{ page.title }}
 
-## Sushi
+## 认识 Sushi
 
 Sushi 是一只威尔士彭布罗克柯基。
 
@@ -14,7 +14,7 @@ Sushi 是一只威尔士彭布罗克柯基。
 
 ![Sushi 的第二张照片](/dogs/$/sushi.2.jpg)
 
-## Dori
+## 认识 Dori
 
 Dori 是一只边境牧羊犬。
 

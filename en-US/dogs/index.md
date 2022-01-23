@@ -6,7 +6,7 @@ localization: en-US
 
 # {{ page.title }}
 
-## Sushi
+## Meet Sushi
 
 Sushi is a Pembroke Welsh Corgi.
 
@@ -14,7 +14,7 @@ Sushi is a Pembroke Welsh Corgi.
 
 ![Sushi's Second Picture](/dogs/$/sushi.2.jpg)
 
-## Dori
+## Meet Dori
 
 Dori is a Border Collie.
 
