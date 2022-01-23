@@ -29,6 +29,11 @@ Your rights and restrictions of reprinting material of the SudoTV project may be
     description="Your right and restriction of reprinting sites and their source code material of the SudoTV project"
 %}
 {% include navigation/core-link.html
+    href="stamp"
+    title="Stamps"
+    description="Your right and restriction of reprinting stamps of the SudoTV project"
+%}
+{% include navigation/core-link.html
     href="video"
     title="Videos"
     description="Your right and restriction of reprinting videos material of the SudoTV project"

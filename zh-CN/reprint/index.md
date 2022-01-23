@@ -29,6 +29,11 @@ localization: zh-CN
     description="您转载 SudoTV 计划网站及其源代码的权利和限制"
 %}
 {% include navigation/core-link.html
+    href="stamp"
+    title="贴纸"
+    description="您转载 SudoTV 计划贴纸的权利和限制"
+%}
+{% include navigation/core-link.html
     href="video"
     title="视频"
     description="您转载 SudoTV 计划视频的权利和限制"

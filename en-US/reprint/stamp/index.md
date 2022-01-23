@@ -8,7 +8,7 @@ localization: en-US
 
 ## Scope
 
-View stamps created by the SudoTV project and the communities from the following sources:
+View stamps created and/or owned by the SudoTV project and the communities from the following sources:
 
 - [SudoTV Stamp List](https://stamp.sudo.tv/stamps)
 
@@ -19,7 +19,7 @@ Stamps include but are not limited to icons, design patterns, image files, and o
 ## You are free to
 
 - Use the SudoTV Stamps to link to SudoTV or SudoTV Sub-website.
-- Use our stamps to advertise and only advertise your SudoTV Hi Profile (A SudoTV Hi page is a profile page for viewers (users) of SudoTV, learn more at [SudoTV Stamp Hi Profile](https://stamp.sudo.tv/hi)).
+- Use our stamps to advertise and only advertise your SudoTV Hi (A SudoTV Hi is a profile page for viewers (users) of SudoTV, learn more at [SudoTV Stamp Hi](https://stamp.sudo.tv/hi)).
 - Use our stamps in a blog post or news article about SudoTV or SudoTV Sub-website.
 
 ## You are not free to
