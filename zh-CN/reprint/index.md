@@ -14,6 +14,11 @@ localization: zh-CN
     description="您转载 SudoTV 计划徽标的权利和限制"
 %}
 {% include navigation/core-link.html
+    href="profile"
+    title="观众画像"
+    description="您转载 SudoTV 计划观众画像的权利和限制"
+%}
+{% include navigation/core-link.html
     href="project"
     title="项目"
     description="您转载 SudoTV 计划项目作品的权利和限制"

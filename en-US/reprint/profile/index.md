@@ -1,5 +1,5 @@
 ---
-title: Reprint Sites Content and Source Code of SudoTV
+title: Reprint SudoTV Viewer Profiles
 layout: base
 localization: en-US
 ---
@@ -12,17 +12,15 @@ localization: en-US
 
 ## Scope
 
-The SudoTV project includes the following websites:
+SudoTV viewer profiles are "profile" page created by SudoTV viewers (users) by contribute SudoTV open-source project. Profiles can be viewed under the following websites:
 
-- [SudoTV Main (sudo.tv)](https://sudo.tv)
-- [SudoTV Bear (bear.sudo.tv)](https://bear.sudo.tv)
-- [SudoTV Documents (docs.sudo.tv)](https://docs.sudo.tv)
-- [SudoTV Project (project.sudo.tv)](https://project.sudo.tv)
-- [SudoTV Resource (resource.sudo.tv)](https://resource.sudo.tv)
-- [SudoTV Series (series.sudo.tv)](https://series.sudo.tv)
-- [SudoTV Stamp (stamp.sudo.tv)](https://stamp.sudo.tv)
+- [SudoTV Stamp](https://stamp.sudo.tv)
 
 > Note that the above list may be incomplete. All sites published past, current or future under the SudoTV project are restricted to this policy.
+
+The following examples can be a good reference for what is a viewer profile:
+
+- [Ghost's Profile](https://stamp.sudo.tv/hi/ghost)
 
 ## Open-sourced
 

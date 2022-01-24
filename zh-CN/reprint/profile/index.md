@@ -1,5 +1,5 @@
 ---
-title: 转载 SudoTV 的网站及其源代码
+title: 转载 SudoTV 的观众画像
 layout: base
 localization: zh-CN
 ---
@@ -12,17 +12,15 @@ localization: zh-CN
 
 ## 范围
 
-SudoTV 计划包括以下网站：
+SudoTV 的观众画像是观看者通过贡献 SudoTV 网站及其子网站的开源项目添加的被称为“画像”的网页，您可以在以下网站中找到用户的画像：
 
-- [SudoTV 主站 (sudo.tv)](https://sudo.tv)
-- [SudoTV 熊吉 (bear.sudo.tv)](https://bear.sudo.tv)
-- [SudoTV 文档 (docs.sudo.tv)](https://docs.sudo.tv)
-- [SudoTV 项目 (project.sudo.tv)](https://project.sudo.tv)
-- [SudoTV 资源 (resource.sudo.tv)](https://resource.sudo.tv)
-- [SudoTV 剧集 (series.sudo.tv)](https://series.sudo.tv)
-- [SudoTV 贴纸 (stamp.sudo.tv)](https://stamp.sudo.tv)
+- [SudoTV 贴纸](https://stamp.sudo.tv)
 
 > 注意，以上列表可能不完整。所有在 SudoTV 计划下过去，目前，以及未来发布的网站都受此政策的限制。我们保留更改范围的权利。
+
+您可以查看以下的例子了解 SudoTV 画像是什么：
+
+- [Ghost 的画像](https://stamp.sudo.tv/hi/ghost)
 
 ## 开源
 

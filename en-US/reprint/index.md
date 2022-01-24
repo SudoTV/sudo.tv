@@ -14,6 +14,11 @@ Your rights and restrictions of reprinting material of the SudoTV project may be
     description="Your right and restriction of reprinting logos of the SudoTV project"
 %}
 {% include navigation/core-link.html
+    href="profile"
+    title="Viewer Profiles"
+    description="Your right and restriction of reprinting viewer profiles of the SudoTV project"
+%}
+{% include navigation/core-link.html
     href="project"
     title="Projects"
     description="Your right and restriction of reprinting project material of the SudoTV project"
