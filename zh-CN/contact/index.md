@@ -24,8 +24,8 @@ SudoTV 计划乐于收到关于您关于网站内容，剧集内容和其他相�
 
 > 访问 [转载](https://sudo.tv/reprint) 来了解更多关于我们的开源许可证和网站政策。
 
-- 访问 [网站贡献](https://sudo.tv/contribute/sites) 来了解更多如何帮助我们完善网站内容。
-- 访问 [网站互动](https://sudo.tv/interact/sites) 来了解如何与网站内容和其他访问者互动。
+- 访问 [网站贡献](https://sudo.tv/contribute/#%E7%BD%91%E7%AB%99%E8%B4%A1%E7%8C%AE) 来了解更多如何帮助我们完善网站内容。
+- 访问 [与 SudoTV 网站互动](https://sudo.tv/interact/#%E4%B8%8E-sudotv-%E7%BD%91%E7%AB%99%E4%BA%92%E5%8A%A8) 来了解如何与网站内容和其他访问者互动。
 
 对于其他关于网站内容的问题，请通过邮件 [info@sudo.tv](mailto://info@sudo.tv) 联系我们。
 
@@ -33,8 +33,8 @@ SudoTV 计划乐于收到关于您关于网站内容，剧集内容和其他相�
 
 我们的剧集是开源的。请访问剧集的代码仓库来了解对应内容的开源许可证和政策。
 
-- 访问 [剧集贡献](https://sudo.tv/contribute/series) 来了解更多如何帮助我们完善剧集内容。
-- 访问 [剧集互动](https://sudo.tv/interact/series) 来了解如何与剧集内容和其他访问者互动。
+- 访问 [剧集贡献](https://sudo.tv/contribute/#%E5%89%A7%E9%9B%86%E8%B4%A1%E7%8C%AE) 来了解更多如何帮助我们完善剧集内容。
+- 访问 [与 SudoTV 剧集互动](https://sudo.tv/interact/#%E4%B8%8E-sudotv-%E5%89%A7%E9%9B%86%E4%BA%92%E5%8A%A8) 来了解如何与剧集内容和其他访问者互动。
 
 对于其他关于剧集内容的问题，请通过邮件 [info@sudo.tv](mailto://info@sudo.tv) 联系我们。
 
