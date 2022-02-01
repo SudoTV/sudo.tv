@@ -1,0 +1,18 @@
+identifier: stamp
+localization:
+  zh-CN:
+    title: "贴纸"
+    description: "SudoTV 贴纸是什么，有什么作用？"
+  en-US:
+    title: "Stamp"
+    description: "What is the stamp, and what does it do?"
+questions:
+  - localization:
+      zh-CN:
+        question: "贴纸是什么？"
+        answer: |-
+          SudoTV 贴纸奖励给参与互动，帮助社区，能力出众以及慷慨的为项目做出贡献的观众。访问 [SudoTV 贴纸](https://stamp.sudo.tv) 页面，了解更多。
+      en-US:
+        question: "What are stamps?"
+        answer: |-
+          SudoTV stamps are rewards for participating in interactive activities, helping the community, and being outstanding in the project. Visit [SudoTV Stamps](https://stamp.sudo.tv) to learn more.

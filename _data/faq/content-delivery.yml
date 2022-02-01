@@ -1,0 +1,27 @@
+identifier: content-delivery
+localization:
+  zh-CN:
+    title: "展现形式"
+    description: "我们为什么如此设计 SudoTV 的展现形式？"
+  en-US:
+    title: "Content Delivery"
+    description: "Why is SudoTV so designed to deliver content?"
+questions:
+  - localization:
+      zh-CN:
+        question: "为什么我们使用视频 + 网站文章的形式？"
+        answer: |-
+          文章的形式是直接的，有趣的，可读的。视频的形式更生动，易于理解。因此，使用复合的形式，我们的视频可以跳过文章中的平淡部分，然后聚焦到更有趣的部分。
+      en-US:
+        question: "Why are we are delivering with videos + website articles?"
+        answer: |-
+          Articles are bold, informative, and easy to read. Videos are more engaging, and are more fun to watch. Hence, our videos could skip the boring parts of the article and focus on the hand-on experience parts.
+  - localization:
+      zh-CN:
+        question: "我应该怎么查看视频内容？"
+        answer: |-
+          视频内容一般会提供单一语言的视频和文字记录。您可以访问 [SudoTV 剧集](https://series.sudo.tv) 页面，查看我们发布的每一个剧集。
+      en-US:
+        question: "How do I view the content of the videos?"
+        answer: |-
+          The content of the videos, and transcripts is usually provided in a single language. You can visit [SudoTV Series](https://series.sudo.tv) to see our published episodes.
